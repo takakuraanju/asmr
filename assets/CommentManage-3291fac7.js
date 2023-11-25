@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,l as n}from"./index-4ba2d79a.js";const r={};function t(c,a){return o(),n("div",null,"コンポーネント未完成")}const m=e(r,[["render",t]]);export{m as default};

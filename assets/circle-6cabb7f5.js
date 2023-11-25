@@ -1,0 +1,1 @@
+import{b as e}from"./request-7dd205cb.js";const l=()=>e.get("/circles"),t=({name:c,profile:i})=>e.post("/circles",{name:c,profile:i}),o=({id:c,name:i,profile:s})=>e.put("/circles",{id:c,name:i,profile:s}),a=c=>e.delete(`/circles/${c}`);export{o as a,t as b,l as c,a as d};

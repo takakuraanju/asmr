@@ -1,1 +1,0 @@
-import{b as s}from"./request-4c50beb0.js";const g=()=>s.get("/genres"),c=({name:e,profile:n})=>s.post("/genres",{name:e,profile:n}),i=e=>s.post("/genres/mapping",e),a=({id:e,name:n,profile:r})=>s.put("/genres",{id:e,name:n,profile:r}),o=e=>s.delete(`/genres/${e}`);export{i as a,a as b,c,o as d,g};
